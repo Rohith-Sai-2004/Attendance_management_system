@@ -1,5 +1,3 @@
-readme_content = """# 📚 Attendance Management System (Java + JDBC + MySQL)
-
 ## 🚀 Overview
 The **Attendance Management System** is a console-based application built using **Java, JDBC, and MySQL**.  
 It manages attendance records for students, with separate roles for **Admin**, **Teacher**, and **Student**.  
